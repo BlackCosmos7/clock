@@ -3,7 +3,7 @@ using UnityEngine;
 public class Sec : MonoBehaviour
 {
     public float seconds; 
-    public float speed = 6f; 
+    private float speed = 6f; 
 
     void Update()
     {

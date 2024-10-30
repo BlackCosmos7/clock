@@ -3,7 +3,7 @@ using UnityEngine;
 public class Hour : MonoBehaviour
 {
     public float hours;
-    public float speed = 30f;
+    private float speed = 30f;
 
     void Update()
     {

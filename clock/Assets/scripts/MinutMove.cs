@@ -3,7 +3,7 @@ using UnityEngine;
 public class Min : MonoBehaviour
 {
     public float minutes; 
-    public float speed = 0.1f; 
+    private float speed = 0.1f; 
 
     void Update()
     {
